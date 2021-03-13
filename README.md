@@ -11,6 +11,13 @@ A clone of the snake game.
     - launch the application by double clicking on Snake.exe
 </br></br></br>
 
+<B>How to play : </B>
+
+    - use the arrows to switch direction
+    - the goal is to gather with the snake as much apples as possible without colliding on itself
+    - you can enter your score on the higscores table if you beat one of them
+</br></br></br>
+
 <B>Credits :</B>
 
    - ASSETS USED
