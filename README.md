@@ -6,7 +6,8 @@ A clone of the snake game.
 
 <B>Installation :</B>
 
-    - Download the compressed files Snake-v... (lastest version, not in the OLD_Build file)
+    - Go to releases -> Game build
+    - Download the compressed files Snake-v1.0
     - extract in a folder
     - launch the application by double clicking on Snake.exe
 </br></br></br>
